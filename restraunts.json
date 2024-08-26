@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Zehraan",
+        "rating":4.3,
+        "dishes":["chicken","burger", "shawrma", "pizza"]
+    },
+    {
+        "name": "amigos",
+        "rating":3.2,
+        "dishes":["chicken","burger", "shawrma", "pizza","apple juice"]
+    },
+    {
+        "name": "pizzacompany",
+        "rating":4.9,
+        "dishes":["chicken","burger", "pizza"]
+    }
+]
